@@ -1,0 +1,7 @@
+out/
+target/
+data/
+.idea/workspace.xml
+.build/
+.codex-finalizer/
+*.log
