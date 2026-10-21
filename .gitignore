@@ -1,0 +1,20 @@
+# Saídas de compilação e de testes (recriadas automaticamente)
+out/
+target/
+.build/
+# Banco local com os cadastros da máquina (o projeto usa database/*.sql)
+data/
+# Configuração local da IDE (o projeto abre por academia-pulso.iml, pom.xml e .run/)
+.idea/
+# Pacotes de entrega ficam fora do projeto
+*.zip
+_backup_removidos/
+# Diversos
+.codex-finalizer/
+*.log
+.vercel/
+node_modules/
+.env*
+
+.vercel
+.env*

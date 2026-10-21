@@ -1,0 +1,25 @@
+# Regras com "/" valem só na raiz: web/src e web/scripts precisam ir para o build da Vercel.
+/.git
+/.idea
+/.run
+/.build
+/_backup_removidos
+/out
+/target
+/data
+/database
+/lib
+/src
+/scripts
+/docs
+/apresentacao
+/assets/telas
+/web/test
+*.zip
+*.iml
+*.cmd
+*.log
+/pom.xml
+/README.md
+node_modules
+.env*
